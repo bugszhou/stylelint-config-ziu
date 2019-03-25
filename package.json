@@ -1,0 +1,19 @@
+{
+  "name": "stylelint-config-ziu",
+  "version": "1.0.0",
+  "description": "scss style config",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/stylelint-config-ziu.git"
+  },
+  "author": "bugszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/stylelint-config-ziu/issues"
+  },
+  "homepage": "https://github.com/bugszhou/stylelint-config-ziu#readme"
+}
