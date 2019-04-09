@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-ziu",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "scss style config",
   "main": "src/index.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "stylelint-config-standard": "^18.2.0",
     "stylelint-config-swan": "^1.0.0",
     "stylelint-config-ttapp": "^1.0.0",
-    "stylelint-config-weapp": "^1.0.1"
+    "stylelint-config-weapp": "^1.0.1",
+    "stylelint-scss": "^3.5.4"
   }
 }

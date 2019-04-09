@@ -1,5 +1,8 @@
 module.exports = {
   "extends": ["stylelint-config-standard", "stylelint-config-weapp", "stylelint-config-aliapp", "stylelint-config-swan", "stylelint-config-ttapp"],
+  "plugins": [
+    "stylelint-scss"
+  ],
   "rules": {
     "unit-whitelist": [
       "vw",
