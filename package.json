@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-ziu",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "scss style config",
   "main": "src/index.js",
   "scripts": {
