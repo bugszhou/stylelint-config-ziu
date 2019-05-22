@@ -14,6 +14,7 @@ module.exports = {
       "mm",
       "ex",
       "pt",
+      "px",
       "pc",
       "em",
       "rpx",
