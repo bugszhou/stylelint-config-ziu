@@ -12,6 +12,7 @@ module.exports = {
       "in",
       "cm",
       "mm",
+      "ms",
       "ex",
       "pt",
       "px",
