@@ -6,7 +6,7 @@ module.exports = {
   "rules": {
     "at-rule-no-unknown": null,
     "scss/at-rule-no-unknown": true,
-    "unit-whitelist": [
+    "unit-allowed-list": [
       "vw",
       "vh",
       "in",

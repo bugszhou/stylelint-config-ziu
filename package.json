@@ -18,10 +18,13 @@
   "homepage": "https://github.com/bugszhou/stylelint-config-ziu#readme",
   "dependencies": {
     "stylelint-config-aliapp": "^1.0.0",
-    "stylelint-config-standard": "^18.2.0",
+    "stylelint-config-standard": "^22.0.0",
     "stylelint-config-swan": "^1.0.0",
     "stylelint-config-ttapp": "^1.0.0",
     "stylelint-config-weapp": "^1.0.1",
-    "stylelint-scss": "^3.5.4"
+    "stylelint-scss": "^3.19.0"
+  },
+  "peerDependencies": {
+    "stylelint": ">=10.0.0"
   }
 }
